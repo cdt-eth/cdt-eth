@@ -42,16 +42,16 @@
 - [Apps & Tools Installed on New M1 Pro](https://christianturner.netlify.app/blog/New-Computer/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://christianturner.netlify.app/blog/)
+[more blog posts...](https://christianturner.netlify.app/blog/)
 
----
+<!-- ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="christiandavidturner's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=christiandavidturner&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [website]: https://christianturner.netlify.app/
 [twitter]: https://twitter.com/imcdt
