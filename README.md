@@ -1,10 +1,10 @@
 ## My name is Christian Turner (he/him)
 
 🇨🇴 I'm a husband, father, programmer, and runner<br>
-💼 My currnet job is Web Operations at BioLab<br>
+💼 My current job is Web Operations at BioLab<br>
 📚 Getting my Masters in Computer Science from Georgia Tech<br>
-📱 2021 Goals: Submit my first iOS app to the App Store<br>
-⚡ Fun fact: I'm a [wedding photographer](https://christiandavidphoto.com) on the side.
+📱 2021 Goal is to submit my first iOS app to the App Store<br>
+⚡ Fun fact: I'm a [wedding photographer](https://christiandavidphoto.com) on the side
 
 ### Connect with me:
 
