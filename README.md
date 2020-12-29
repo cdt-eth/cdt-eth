@@ -1,16 +1,16 @@
 ## My name is Christian Turner (he/him)
 
-🇨🇴 I'm a husband, father, programmer, and runner
-📚 Getting my Master in Computer Science from Georgia Tech
-📱 2021 Goals: Submit my first iOS app to the App Store
+🇨🇴 I'm a husband, father, programmer, and runner<br>
+📚 Getting my Master in Computer Science from Georgia Tech<br>
+📱 2021 Goals: Submit my first iOS app to the App Store<br>
 ⚡ Fun fact: I'm a [wedding photographer](https://christiandavidphoto.com) on the side.
 
 ### Connect with me:
 
 [<img align="left" alt="christianturner.netlify.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="christiandavidturner" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="christiandavidturner" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="christiandavidturner" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="christiandavidturner | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="christiandavidturner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="christiandavidturner | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
