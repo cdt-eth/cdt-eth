@@ -1,8 +1,8 @@
 ## My name is Christian Turner (he/him)
 
-🇨🇴 I'm a husband, father, programmer, and runner
-📚 Getting my Master in Computer Science from Georgia Tech
-📱 2021 Goals: Submit my first iOS app to the App Store
+🇨🇴 I'm a husband, father, programmer, and runner<br>
+📚 Getting my Master in Computer Science from Georgia Tech<br>
+📱 2021 Goals: Submit my first iOS app to the App Store<br>
 ⚡ Fun fact: I'm a [wedding photographer](https://christiandavidphoto.com) on the side.
 
 ### Connect with me:
