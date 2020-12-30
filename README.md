@@ -1,9 +1,10 @@
 ## My name is Christian Turner (he/him)
 
 🇨🇴 I'm a husband, father, programmer, and runner<br>
-📚 Getting my Master in Computer Science from Georgia Tech<br>
-📱 2021 Goals: Submit my first iOS app to the App Store<br>
-⚡ Fun fact: I'm a [wedding photographer](https://christiandavidphoto.com) on the side.
+💼 My current job is Web Operations at BioLab<br>
+📚 Getting my Masters in Computer Science from Georgia Tech<br>
+📱 2021 Goal is to submit my first iOS app to the App Store<br>
+⚡ Fun fact: I'm a [wedding photographer](https://christiandavidphoto.com) on the side
 
 ### Connect with me:
 
@@ -42,7 +43,7 @@
 - [Apps & Tools Installed on New M1 Pro](https://christianturner.netlify.app/blog/New-Computer/)
 <!-- BLOG-POST-LIST:END -->
 
-[_more blog posts..._](https://christianturner.netlify.app/blog/)
+[_*more blog posts...*_](https://christianturner.netlify.app/blog/)
 
 <!-- ---
 
