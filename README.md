@@ -36,6 +36,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YNAB](https://christianturner.netlify.app/blog/ynab/)
 - [Leetcode - Easy](https://christianturner.netlify.app/blog/LeetCode-Easy/)
 - [100 Days of Swift](https://christianturner.netlify.app/blog/100-Days-Of-Swift/)
 - [Setting Up Firebase Auth in SwiftUI App](https://christianturner.netlify.app/blog/Firebase-Auth/)
