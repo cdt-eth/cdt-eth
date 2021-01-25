@@ -1,6 +1,6 @@
 ## My name is Christian Turner (he/him)
 
-🇨🇴 I'm a husband, father, programmer, and runner<br>
+🏃🏻‍♂️ I'm a husband, father, programmer, and runner<br>
 💼 My current job is Web Operations at BioLab<br>
 📚 Getting my Masters in Computer Science from Georgia Tech<br>
 📱 2021 Goal is to submit my first iOS app to the App Store<br>
