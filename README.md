@@ -37,8 +37,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YNAB](https://christianturner.netlify.app/blog/ynab/)
-- [Leetcode - Easy](https://christianturner.netlify.app/blog/LeetCode-Easy/)
+- [Learning Go](https://christianturner.netlify.app/blog/Go/)
+- [Python Algorithms](https://christianturner.netlify.app/blog/Learning-Python/)
+<!-- - [Leetcode - Easy](https://christianturner.netlify.app/blog/LeetCode-Easy/) -->
 - [100 Days of Swift](https://christianturner.netlify.app/blog/100-Days-Of-Swift/)
 - [Setting Up Firebase Auth in SwiftUI App](https://christianturner.netlify.app/blog/Firebase-Auth/)
 - [New Computer GitHub Sync Issue](https://christianturner.netlify.app/blog/Github-Issue/)
