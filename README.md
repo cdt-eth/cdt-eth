@@ -20,7 +20,7 @@
 <img align="left" alt="Swift" width="26px" src="https://github.com/christiandavidturner/codeSTACKr/blob/master/8f50630ae0e1775196e4c270c573ce67.png" />
 <img align="left" alt="CPlusPlus" width="26px" src="https://raw.githubusercontent.com/christiandavidturner/codeSTACKr/master/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png" />
-<img align="left" alt="Go" width="26px" src="https://i.ibb.co/9phmnLd/Go.png" />
+<img align="left" alt="Go" width="26px" src="https://i.ibb.co/Gfm4wN1/gopher.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
