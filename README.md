@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="christianturner.netlify.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="cdt.works" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="christiandavidturner | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="christiandavidturner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="christiandavidturner | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -20,7 +20,10 @@
 <img align="left" alt="Swift" width="26px" src="https://github.com/christiandavidturner/codeSTACKr/blob/master/8f50630ae0e1775196e4c270c573ce67.png" />
 <img align="left" alt="CPlusPlus" width="26px" src="https://raw.githubusercontent.com/christiandavidturner/codeSTACKr/master/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png" />
+<img align="left" alt="React" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI2R2epFdqIiacCchk2NJFhH2Ox5Y-d91CHQ&usqp=CAU" />
 <img align="left" alt="Go" width="26px" src="https://i.ibb.co/Gfm4wN1/gopher.png" />
+<img align="left" alt="Typescript" width="26px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
@@ -57,7 +60,7 @@
 
 </details> -->
 
-[website]: https://christianturner.netlify.app/
+[website]: https://cdt.works/
 [twitter]: https://twitter.com/imcdt
 [instagram]: https://instagram.com/christiandavidphoto_
 [linkedin]: https://www.linkedin.com/in/christiandavidturner/
