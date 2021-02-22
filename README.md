@@ -49,7 +49,7 @@
 - [Apps & Tools Installed on New M1 Pro](https://christianturner.netlify.app/blog/New-Computer/)
 <!-- BLOG-POST-LIST:END -->
 
-[_*more blog posts...*_](https://christianturner.netlify.app/blog/)
+[_*more blog posts...*_](https://cdt.works/blog/)
 
 <!-- ---
 
