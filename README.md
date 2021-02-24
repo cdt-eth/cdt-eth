@@ -62,6 +62,6 @@
 </details> -->
 
 [website]: https://cdt.works/
-[twitter]: https://twitter.com/imcdt
+[twitter]: https://twitter.com/cdt_works
 [instagram]: https://instagram.com/christiandavidphoto_
 [linkedin]: https://www.linkedin.com/in/christiandavidturner/
