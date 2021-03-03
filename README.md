@@ -38,12 +38,16 @@
 
 ---
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
+### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 
 - [The React Times](https://cdt.works/blog/The-React-Times/)
-- [Python Algorithms](https://cdt.works/blog/Learning-Python/)
+- [Leetcode: Hash Tables & Dictionaries](https://cdt.works/blog/Hashtables/)
+- [Leetcode: Two Pointer](https://cdt.works/blog/Two-Pointer/)
+- [Leetcode: Trees](https://cdt.works/blog/Trees/)
+- [Leetcode: Misc. Algorithms](https://cdt.works/blog/Misc-Leetcode/)
 - [100 Days of Swift](https://cdt.works/blog/100-Days-Of-Swift/)
 - [Setting Up Firebase Auth in SwiftUI App](https://cdt.works/blog/Firebase-Auth/)
 - [New Computer GitHub Sync Issue](https://cdt.works/blog/Github-Issue/)
