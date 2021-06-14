@@ -20,7 +20,9 @@
 
 <!-- <img align="left" alt="Swift" width="26px" src="https://github.com/christiandavidturner/codeSTACKr/blob/master/8f50630ae0e1775196e4c270c573ce67.png" /> -->
 <!-- <img align="left" alt="CPlusPlus" width="26px" src="https://raw.githubusercontent.com/christiandavidturner/codeSTACKr/master/1200px-ISO_C%2B%2B_Logo.svg.png" /> -->
+
 <img align="left" alt="React" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI2R2epFdqIiacCchk2NJFhH2Ox5Y-d91CHQ&usqp=CAU" />
+<img align="left" alt="ReactRouter" width="26px" src="https://christiandavidphoto.com/wp-content/uploads/2021/06/rr.png" />
 <!-- <img align="left" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" /> -->
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="Typescript" width="26px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />
