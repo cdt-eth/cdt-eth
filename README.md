@@ -2,6 +2,6 @@
 
 Frontend Engineer at Cacheflow.<br/>
 
-Helping to build the metaverse via [SharkDAO](https://sharkdao.community/) & [NounsDAO](https://nouns.wtf/). <br/>
+Helping to build the metaverse via [NounsDAO](https://nouns.wtf/), [SharkDAO](https://sharkdao.community/), and [Cryptoadz](https://cryptoadz.io/).<br/>
 
 [cdt.works](https://cdt.works/)
