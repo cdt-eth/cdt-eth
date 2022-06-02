@@ -1,1 +1,2 @@
-[![nounscastles](https://user-images.githubusercontent.com/26611339/168195225-14233bb5-afea-4b69-89f6-d64ddb807bcc.gif)](https://docs.google.com/presentation/d/1v0ccwju6isFD8lIRKFyiPLxbVJhPCSmLLjxF3TBZG4I)
+
+![b1a94872599599](https://user-images.githubusercontent.com/26611339/171686918-90ec4ecf-04ce-48e0-96b2-69f8c11e4172.png)
